@@ -1,0 +1,6 @@
+{
+  "name": "Suspicious URL Analyzer",
+  "description": "AI-based suspicious URL analyzer that inspects URL structure, domains, look-alikes, IP usage, and parameters for security risks without visiting the link.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
